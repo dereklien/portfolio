@@ -107,6 +107,17 @@ body {
     filter: brightness(10%);
 }
 
+/* Projects page */
+.projects-wrapper {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.projects-wrapper {
+    padding: 30px;
+    color: darkblue;
+}
+
 /* About page */
 .two-column-wrapper {
     display: grid;
